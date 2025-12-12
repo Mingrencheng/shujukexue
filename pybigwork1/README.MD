@@ -6,7 +6,7 @@
 核心目标：**数据理解、清洗严谨性、可视化分析与结果解释**。
 
 ## 📂 目录结构
-```text
+``
 housing_analysis/
 ├── data/
 │   ├── raw/                 # 原始数据 (melb_data.csv 放在此处)
@@ -23,8 +23,7 @@ housing_analysis/
 │   └── final-report.pdf     # 最终分析报告
 ├── README.md                # 项目说明文档
 └── requirements.txt         # 项目依赖库
-````
-```
+
 ## 🚀 如何运行
 
 1.  **环境配置**：
@@ -96,6 +95,7 @@ housing_analysis/
 本项目通过规范的数据科学流程，成功识别了影响墨尔本房价的主要因素。数据清洗阶段的精细化处理（特别是针对 BuildingArea 和 Landsize 的修复）显著提升了数据质量，为模型预测奠定了基础。
 
 ```
+
 
 
 
