@@ -1,0 +1,11 @@
+### 2. `requirements.txt` (依赖包列表)
+**位置**：项目根目录
+**作用**：一键安装所需库，满足“工程化意识”要求。
+
+```text
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
